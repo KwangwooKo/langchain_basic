@@ -1,4 +1,4 @@
-# langchain_kko
+# langchain_basic
 
 This is the materials for self-study.
 
